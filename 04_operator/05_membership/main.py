@@ -1,4 +1,5 @@
-message = 'A "meaningful statement" is a declaration that conveys a signification idea,opinion, or message'
+message = 'A "meaningful statement" is a declaration that conveys a signification idea,' \
+'opinion, or message'
 
 print(message)
 
